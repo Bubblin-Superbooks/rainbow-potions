@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "rainbow-potions",
-  "type": "comics"
+  "name": "Rainbow Potions",
+  "type": "comics",
+  "book_id": 341
 }
